@@ -1,8 +1,8 @@
 # EasyTerminalLife
 -Real Nerds Live On Command Line
--tumse ye ummeed nahi thi.
--Navigation: pwd, ls path, cd folder_path. Definition of path (computing).
--Help: man command, command --help, command -h, Explainshell.
+- tumse ye ummeed nahi thi.
+- Navigation: pwd, ls path, cd folder_path. Definition of path (computing).
+- Help: man command, command --help, command -h, Explainshell.
 -Manipulation: cp, mv, rm, mkdir, ln.
 -Permissions: chmod, chown, chgrp, su, sudo (enable sudo on Debian).
 -Display a line of text: echo, echo $PATH (show the content of variable $PATH).
