@@ -10,3 +10,4 @@
 - Execute a command in the background: command &.
 - Run an executable in the current directory that is not in your $PATH: ./executable.
 - Run a Bash script: bash script.sh. Executable with header #!/bin/bash.
+- Monitor processes : ps [options], top
